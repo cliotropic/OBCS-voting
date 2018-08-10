@@ -40,6 +40,12 @@ This is a bibliography and collection of notes on the use of blockchain for voti
 * J. Alex Halderman, ECS, UMichigan: https://jhalderm.com/
   * [Securing Digital Democracy](https://www.coursera.org/learn/digital-democracy), Coursera MOOC
 * "Actually, one of the biggest concerns about E2E-VIV is one that would also apply to blockchain, or any other online voting system: denial of service attacks." http://www.govtech.com/data/GT-OctoberNovember-Securing-the-Vote.html
-* Bernhard et al., "[Public Evidence from Secret Ballots,](https://arxiv.org/abs/1707.08619)" _Proc. 2nd International Joint Conference on Electronic Voting (E-Vote-ID ’17),_ October 2017
 * "“In my opinion, anybody purporting to have securely and robustly applied blockchain technology to voting should have prepared a detailed analysis of how their system would respond to a long list of known threats that voting systems must respond to, and should have made their analysis public,” Carnegie Mellon computer scientist David Eckhardt wrote in an email."
   * https://www.wired.com/story/smartphone-voting-is-happening-west-virginia/
+
+## Academic research on e-voting (blockchain and otherwise):
+
+* [E-VOTE-ID, The International Conference for Electronic Voting](https://www.e-vote-id.org/)
+* Bernhard et al., "[Public Evidence from Secret Ballots,](https://arxiv.org/abs/1707.08619)" _Proc. 2nd International Joint Conference on Electronic Voting (E-Vote-ID ’17),_ October 2017
+  * For the full list of papers from this conference, see https://link.springer.com/book/10.1007/978-3-319-68687-5 .
+* [E2E-VIV Project: End-to-End Verifiable Internet Voting](https://www.usvotefoundation.org/E2E-VIV)
